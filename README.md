@@ -7,7 +7,7 @@ Projeto desenvolvido seguindo as aulas do cod3r curso.
 ## Info
 
 
-![Layout](layout.jpeg)
+![Gif](gif.mp4)
 
 Simples calculadora baseda na calculadora do Mac. 
 
