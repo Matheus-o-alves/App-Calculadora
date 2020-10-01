@@ -18,8 +18,8 @@ Projeto desenvolvido seguindo as aulas do cod3r curso.
 <h1>Fontes</h1>
 
 <h1>Tecnologias</h1>
-*Dart
-*Flutter
+* Dart
+* Flutter
 
  <h1>Fontes</h1>
 
