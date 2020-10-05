@@ -7,7 +7,7 @@ Projeto desenvolvido seguindo as aulas do cod3r curso.
 <h1> Informações </h1>
 
 
-<h3>App desenvolvido em FLutter para fazer calculos basicos. </h3>
+<h3>App desenvolvido em Flutter para fazer calculos basicos. </h3>
 
 
 </p>
